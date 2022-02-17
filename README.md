@@ -33,6 +33,14 @@ Your app is ready to be deployed!
 
 Framer motion package -  to make nice and smooth animations. 
 
+## What I Learned
+
+Used async fetch to get movies from themoviedb API. 
+
+Using framer motion package and how to animate.
+
+Simple CSS with React.
+
 ## Live site
 
 https://angry-heyrovsky-f7fedf.netlify.app/
