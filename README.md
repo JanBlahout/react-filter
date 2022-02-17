@@ -41,6 +41,8 @@ Using framer motion package and how to animate.
 
 Simple CSS with React.
 
+useEffect hook with multiple conditions can be tricky. Using double useEffect with the same dependencies make cause issues. also using "setState" in useEffect can be problematic.
+
 ## Live site
 
 https://angry-heyrovsky-f7fedf.netlify.app/
